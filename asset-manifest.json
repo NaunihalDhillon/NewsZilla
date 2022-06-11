@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newszilla/static/css/main.073c9b0a.css",
+    "main.js": "/newszilla/static/js/main.86cf58bd.js",
+    "index.html": "/newszilla/index.html",
+    "main.073c9b0a.css.map": "/newszilla/static/css/main.073c9b0a.css.map",
+    "main.86cf58bd.js.map": "/newszilla/static/js/main.86cf58bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.86cf58bd.js"
+  ]
+}
